@@ -218,6 +218,8 @@ Get credentials: [Register a free sandbox account](https://sandbox-api.photoncom
 | [`photon-receipt`](https://github.com/Photon-Commerce/photon-receipt) | Receipts |
 | [`photon-statement`](https://github.com/Photon-Commerce/photon-statement) | Bank & card statements |
 | [`photon-check`](https://github.com/Photon-Commerce/photon-check) | Checks |
+| [`photon-remittance`](https://github.com/Photon-Commerce/photon-remittance) | Remittances |
+
 
 ---
 
